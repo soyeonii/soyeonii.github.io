@@ -4,8 +4,8 @@ bio: "서경대학교 소프트웨어학과"
 description: "Moon is a minimal, one column jekyll theme for your blog."
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/placeholder-big.jpg"
+logo: "assets/img/profile.png"
+background: "assets/img/background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://soyeonii.github.io/
@@ -37,7 +37,7 @@ disqus_shortname: taylantatli
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
+email: dingdingcrong@skuniv.ac.kr
 # twitter: username
 # facebook: username
 github-url: soyeonii
